@@ -184,7 +184,7 @@ def result():
 
 
 fenetre=Tk()
-fenetre.title('Allociné')
+fenetre.title('Allocinéma')
 
 recherche=Frame(fenetre,borderwidth=2, relief=GROOVE)
 pres=Label(recherche, text="Bienvenue, rentre le nom d'un acteur, d'un film ou d'un réalisateur, le logiciel s'occupe du reste!")
